@@ -1,5 +1,12 @@
 MySQL
 
+<img
+src=“Download/SQL.jpg”
+raw=true
+alt=“Subject SQL”
+style=“margin-right: 10px;”
+/>
+
 <img /storage/emulated/0/Download/SQL.jpg = "SQL.jpg" alt"SQL.jpg">
 Concepts
 For this project, we expect you to look at these concepts:
